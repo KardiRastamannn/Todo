@@ -1,6 +1,4 @@
 # Todo
-
-Rövid leírás
 Ez egy feladatkezelő alkalmazás, ahol van külön admin és felhasználó szerepkör.
 Az admin tud kizárólag felvinni új felhasználókat, új feladatokat és hozzárendelni felhasználókhoz, míg a felhasználó csak a saját feladait látja és azok státuszait módosíthatja.
 
