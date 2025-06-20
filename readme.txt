@@ -12,7 +12,7 @@ Követelmények
 Telepítés
 
 1. A `Connection.php` fájlban állítsuk be az adatbázis kapcsolatot.
-2. Klónozzuk a projektet Git-ből.
+2. Klónozzuk a projektet Git-ről.
 3. Az adatbázist a `public/sql/tasks.sql` fájl alapján hozzuk létre.
 4. Futtassuk a `composer install` parancsot.
    (Megjegyzés: nincs külső csomag, de az autoload szükséges.)
@@ -85,7 +85,7 @@ Dependency Injection (DI):
 - Memcached használata gyakran lekérdezett adatokhoz.
 - Low-code admin felület
 - Language model bevezetése, dictionary használata, traitek használata.
-
+- JS fájlok betöltése kizárólag akkor, ha a view is betöltődik.
 
 
 
